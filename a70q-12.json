@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": "1675197432",
+      "filename": "lineage-19.1-20230202-UNOFFICIAL-a70q.zip",
+      "id": "9faf3bc0ffdeaf1f971701e7e448ce1c29bf0bbb4b15574add2fff7457c48037",
+      "romtype": "UNOFFICIAL",
+      "size": "920886899",
+      "url": "https://github.com/rtd1250/a70q_OTA/releases/download/20230202-los19/lineage-19.1-20230202-UNOFFICIAL-a70q.zip",
+      "version": "19.1"
+    }
+  ]
+}
