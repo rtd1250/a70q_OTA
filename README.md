@@ -1,10 +1,10 @@
 # a70q Pixel Experience 13+
 
-Current build: 20230513
+Current build: 20231101
 
 - downloads: https://github.com/rtd1250/a70q_OTA/releases
-- device tree: https://github.com/rtd1250/android_device_samsung_a70q/tree/pe-thirteen-plus
-- kernel: https://github.com/rtd1250/android_kernel_samsung_sm6150/tree/pe-thirteen
+- device tree: https://github.com/rtd1250/android_device_samsung_a70q/tree/pe-fourteen
+- kernel: https://github.com/rtd1250/android_kernel_samsung_sm6150/tree/lineage-21
 
 ## Device picture
 
