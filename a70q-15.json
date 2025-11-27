@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1763071776",
-      "filename": "lineage-22.2-20251113-UNOFFICIAL-a70q.zip",
-      "id": "19e695c631067b8209ac069e535a0bfc3e68dbeedfe04aa2bccdd230a289a878",
+      "datetime": "1764193629",
+      "filename": "lineage-22.2-20251126-UNOFFICIAL-a70q.zip",
+      "id": "7743e16bf001292315058ce67dc6fc1a57ad4bb89b6bfa7d1bae0b92f601aa4e",
       "romtype": "UNOFFICIAL",
-      "size": "1168764347",
-      "url": "https://github.com/rtd1250/a70q_OTA/releases/download/20251113-15-a70q/lineage-22.2-20251113-UNOFFICIAL-a70q.zip",
+      "size": "1168767741",
+      "url": "https://github.com/rtd1250/a70q_OTA/releases/download/20251126-15-a70q/lineage-22.2-20251126-UNOFFICIAL-a70q.zip",
       "version": "22.2"
     }
   ]
